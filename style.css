@@ -1,7 +1,7 @@
 
 
 .header {
-  padding: 30px;
+  padding: 20px;
   text-align: center;
   background: #d4ae5b;
   color: rgb(26, 12, 12);
@@ -50,7 +50,8 @@ li a.active{
   </head>
 
   <style>
-.footer {
+    .footer {
+  padding:20px;
   position: fixed;
   left: 0;
   bottom: 0;
