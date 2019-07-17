@@ -4,8 +4,17 @@ body {
  color:black;
  text:align:center;
 }
-<!DOCTYPE html>
-<html lang="en">
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
 
 <img src ="assests/logo.png" alt="logo" class="logo">
 header: :afte{
@@ -39,5 +48,5 @@ nav a {
 
 </body>
 
-</html>
+
 
