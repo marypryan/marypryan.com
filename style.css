@@ -1,6 +1,15 @@
 
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #d4ae5b;
+  color: rgb(26, 12, 12);
+  font-size: 30px;
+} 
+
 body {
- background-color:#CD853F;
+ background-color:rgb(134, 223, 196);
  color:black;
  text:align:center;
 }
@@ -39,6 +48,18 @@ li a.active{
   
   </style>
   </head>
+
+  <style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+</style>
 </body>
 
 
