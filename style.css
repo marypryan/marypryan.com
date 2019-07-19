@@ -36,7 +36,7 @@ li a {
   text decoration:none;
 }
 
-#footer {
+.footer {
 padding: 0px;
 position: fixed;
 left: 0;
