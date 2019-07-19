@@ -57,20 +57,17 @@ img.small
     height:90px:
 }
 
-<style>
-.footer {
-padding: 30x;
-position: relative
+#footer {
+padding: 10px;
+position: fixed;
 left: 0;
 bottom: 0;
-height:100 px;
 width: 100%;
 background-color: rgb(241, 233, 197);
-color: white;
+color: black;
 text-align: center;
 }
 
-</style>
 </body>
 
 
