@@ -49,22 +49,24 @@ li a.active{
   </style>
   </head>
 
-  <style>
-    .footer {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-  color: white;
-  text-align: center;
-}
 
 img.small
 
 {
-  border-radius: 50%;
-  }
+  width: 100 px:
+    height:90px:
+}
+
+<style>
+.footer {
+position: absolute;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: rgb(241, 233, 197);
+color: white;
+text-align: center;
+}
 
 </style>
 </body>
