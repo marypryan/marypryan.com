@@ -11,7 +11,7 @@
 body {
  background-color:rgb(134, 223, 196);
  color:black;
- text:align:center;
+ text-align:center;
 }
 
 ul {
@@ -24,20 +24,20 @@ ul {
 
 li {
   float: left;
-  border -right:1px solid #bbb;
+  border:1px solid #bbb;
 }
 
 
 li a {
   display: block;
   color:black
-  text-align:center;
-  padding:14px 16px;
+  text-align: center;
+  padding: 14px 16px;
   text decoration:none;
 }
 
 #footer {
-padding: 10px;
+padding: 0px;
 position: fixed;
 left: 0;
 bottom: 0;
