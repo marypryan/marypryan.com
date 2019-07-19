@@ -59,13 +59,13 @@ li a.active{
   color: white;
   text-align: center;
 }
-img.small
-{
-  width: 100 px:
-  height:90px:}
-}
 
-}
+img.small
+
+{
+  border-radius: 50%;
+  }
+
 </style>
 </body>
 
