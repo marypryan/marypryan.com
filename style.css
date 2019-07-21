@@ -36,6 +36,12 @@ li a {
   text decoration:none;
 }
 
+/* changes hover color */
+li a:hover {
+  background-color: #111;
+  color:white;
+}
+
 .footer {
 padding: 0px;
 position: fixed;
