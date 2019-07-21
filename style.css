@@ -37,11 +37,7 @@ li a {
 }
 
 /* changes hover color */
-li a:hover {
-  background-color: #111;
-  color:white;
-}
-.active{
+li a:hover, a.on {
   background-color: #111;
   color:white;
 }
