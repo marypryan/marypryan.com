@@ -36,7 +36,7 @@ li a {
   text decoration:none;
 }
 
-/* changes hover color */
+/* changed hover color */
 li a:hover, a.on {
   background-color: #111;
   color:white;
