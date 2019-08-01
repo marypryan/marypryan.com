@@ -42,16 +42,6 @@ li a:hover, a.on {
   color:white;
 }
 
-.footer {
-padding: 0px;
-position: fixed;
-left: 0;
-bottom: 0;
-width: 100%;
-background-color: rgb(241, 233, 197);
-color: black;
-text-align: left;
-}
 
 #git-hub-stamp {
   padding: 0px;
@@ -63,5 +53,19 @@ text-align: left;
   color: black;
   text-align:center;
 }
+
+
+.footer {
+padding: 0px;
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: rgb(241, 233, 197);
+color: black;
+text-align: left;
+}
+
+
 
 
