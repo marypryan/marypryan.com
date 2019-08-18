@@ -56,7 +56,7 @@ text-align: center;
 
 
 aboutmepic.jpg{
-  position:left;
+ float:left;
   
 }
 
