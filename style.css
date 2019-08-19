@@ -55,8 +55,8 @@ text-align: center;
 }
 .imageborder
 {
-  border-width: 1px;
-border-color:black;
+  border-width: 5px;
+  border-color:black;
 }
 
 img.large{
