@@ -52,14 +52,14 @@ width: 100%;
 background-color: rgb(241, 233, 197);
 color: black;
 text-align: center;
-}
-.imageborder
-{
-  border-width:25px; 
-  border-color:color:black;
+
+
+
 }
 
 img.large{
   width:500px;
   height:500px;
+  border-width:25px; 
+  border-color:black;
 }
