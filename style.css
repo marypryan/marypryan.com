@@ -53,13 +53,8 @@ background-color: rgb(241, 233, 197);
 color: black;
 text-align: center;
 
-#try
+.try > img:hover
 {
-height:300px;
-float:center;
-position:relative;
-}
-#try:hover img
-}
 height:500px;
+width:500px;
 }
